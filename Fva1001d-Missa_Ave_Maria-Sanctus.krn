@@ -1,13 +1,13 @@
-!!!COM:	F&eacute;vin, Antoine de
-!!!CDT:	~1470//-~1511//
-!!!OPR:	Missa Ave Maria
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	Fva1001d
-!!!SCA:	Fva1001d
-!!!voices-OPR:	4
-!!!voices:	4
+!!!COM: F&eacute;vin, Antoine de
+!!!CDT: ~1470//-~1511//
+!!!OPR: Missa Ave Maria
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: Fva1001d
+!!!SCA: Fva1001d
+!!!voices-OPR: 4
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -898,9 +898,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Richard Freedman (CRIM)
-!!!END:	2016/03/29/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/03/30/
-!!!ONB:	Translated from MusicXML and edited on 2016/03/30/ by Craig Sapp
+!!!ENC: Richard Freedman (CRIM)
+!!!END: 2016/03/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/03/30/
+!!!ONB: Translated from MusicXML and edited on 2016/03/30/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16
